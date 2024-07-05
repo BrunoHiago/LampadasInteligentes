@@ -7,7 +7,7 @@ Lampadas Inteligentes  é um aplicativo desenvolvido em Kotlin utilizando Jetpac
 - **Controle de Lâmpadas:** Ligue e desligue as luzes da sua casa diretamente pelo aplicativo.
 - **Agendamento de Horários:** Programe horários específicos para ligar e desligar as luzes automaticamente.
 - **Alteração de Cores RGB:** Customize a cor das suas lâmpadas RGB para criar diferentes ambientes e atmosferas.
-- **Interface Intuitiva:** Desenvolvido com Jetpack Compose, LumiControl oferece uma interface de usuário moderna e responsiva.
+- **Interface Intuitiva:** Desenvolvido com Jetpack Compose, oferece uma interface de usuário moderna e responsiva.
 
 ## Capturas de Tela
 
