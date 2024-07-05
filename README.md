@@ -12,13 +12,13 @@ LampadasInteligentes  é um aplicativo desenvolvido em Kotlin utilizando Jetpack
 ## Capturas de Tela
 
 ### Tela de Controle de Lâmpadas
-![Tela de Controle de Lâmpadas](images/tela_controle.jpeg)
+<img src="images/tela_controle.jpeg" alt="Tela de Controle de Lâmpadas" width="300">
 
 ### Tela de Agendamento
-![Tela de Agendamento](images/tela_agendamento.jpeg)
+<img src="images/tela_agendamento.jpeg" alt="Tela de Agendamento" width="300">
 
 ### Tela de Alteração de Cores RGB
-![Tela de Alteração de Cores RGB](images/tela_rgb.jpeg)
+<img src="images/tela_rgb.jpeg" alt="Tela de Alteração de Cores RGB" width="300">
 
 ## Tecnologias Utilizadas
 
@@ -49,7 +49,7 @@ LampadasInteligentes  é um aplicativo desenvolvido em Kotlin utilizando Jetpack
 - Desfrute do controle total da iluminação da sua casa na palma da sua mão.
   
 ## Autores
-[Bruno Hiago Xavier ](https://github.com/BrunoHiago)
-[Iasmin Pieraço Rodrigues ](https://github.com/IasminPieraco)
-[José Ferreira Arantes Lopes ](https://github.com/JoseArantes83)
-[Peterson Leandro G. Batista ](https://github.com/zSkiluu)
+- [Bruno Hiago Xavier ](https://github.com/BrunoHiago)
+- [Iasmin Pieraço Rodrigues ](https://github.com/IasminPieraco)
+- [José Ferreira Arantes Lopes ](https://github.com/JoseArantes83)
+- [Peterson Leandro G. Batista ](https://github.com/zSkiluu)
