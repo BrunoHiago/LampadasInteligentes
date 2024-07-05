@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Projetos7" parent="android:Theme.Material.Light.NoActionBar" />
+    <style name="Dialog" parent="android:Widget.Material.TimePicker">
+        <item name="android:colorAccent">@color/black</item>
+    </style>
+
+
+</resources>
