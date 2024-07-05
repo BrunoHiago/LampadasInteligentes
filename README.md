@@ -1,6 +1,6 @@
-# LampadasInteligentes
+# Lampadas Inteligentes
 
-LampadasInteligentes  é um aplicativo desenvolvido em Kotlin utilizando Jetpack Compose que permite o controle total das luzes da sua casa. Com LampadasInteligentes, você pode ligar e desligar as luzes, agendar horários para controle automático e até mesmo alterar a cor das luzes RGB para criar o ambiente perfeito para qualquer ocasião.
+Lampadas Inteligentes  é um aplicativo desenvolvido em Kotlin utilizando Jetpack Compose que permite o controle total das luzes da sua casa. Com Lampadas Inteligentes, você pode ligar e desligar as luzes, agendar horários para controle automático e até mesmo alterar a cor das luzes RGB para criar o ambiente perfeito para qualquer ocasião.
 
 ## Funcionalidades Principais
 
